@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weihong Xu"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : 
 repository               : 
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "PhD @ CSE, UCSD"
   location         : "La Jolla, CA 92093, USA"
-  employer         : "UCSD"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=iKoPPOYAAAAJ"
   email            : "wexu@ucsd.edu"

@@ -47,7 +47,8 @@ Before joining UCSD, I received B.E. and M.E. degrees from [Southeast University
   *Under revision of IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024*
 - **[Under Review]** [HyperGen: Compact and Efficient Genome Sketching using Hyperdimensional Vectors](https://github.com/wh-xu/Hyper-Gen) \
   **Weihong Xu**, Po-kai Hsu, Niema Moshiri, Shimeng Yu, and Tajana Rosing \
-  *Under revision of Bioinformatics, 2024* 
+  *Under revision of Bioinformatics, 2024* \
+  [![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/wh-xu/Hyper-Gen)
 - **[Under Review]** [Proxima: Near-storage Acceleration for Graph-based Approximate Nearest Neighbor Search in 3D NAND](https://arxiv.org/abs/2312.04257) \
   **Weihong Xu**, Junwei Chen, Po-Kai Hsu, Jaeyoung Kang, Minxuan Zhou, Sumukh Pinge, Shimeng Yu, and Tajana Rosing \
   *Under review of IEEE Transactions on Computers, 2024* 

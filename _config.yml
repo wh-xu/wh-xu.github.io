@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weihong Xu"
-description              : ""
+description              : "In search of more efficient computing algorithm, hardware, and paradigm."
 repository               : 
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Weihong Xu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "PhD @ CSE, UCSD"
+  bio              : "CSE PhD, UCSD"
   location         : "La Jolla, California, USA"
   employer         : 
   pubmed           : 

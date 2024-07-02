@@ -5,24 +5,24 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JPR 2023</div><img src='images/hyperspec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-  [HyperSpec: Fast Mass Spectra Clustering in Hyperdimensional Space](https://pubs.acs.org/doi/10.1021/acs.jproteome.2c00612) \
-  <ins>**Weihong Xu**</ins>, Jaeyoung Kang, Wout Bittremieux, Niema Moshiri, and Tajana Rosing \
-  *Journal of Proteome Research, 2023* \
+  [HyperSpec: Fast Mass Spectra Clustering in Hyperdimensional Space](https://pubs.acs.org/doi/10.1021/acs.jproteome.2c00612) \\
+  <ins>**Weihong Xu**</ins>, Jaeyoung Kang, Wout Bittremieux, Niema Moshiri, and Tajana Rosing \\
+  *Journal of Proteome Research, 2023* 
   [![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/wh-xu/Hyper-Spec)
 
-  - FastSpeech is the first fully parallel end-to-end speech synthesis model.
+  - HyperSpec is one of the fastest clustering tool for mass spectrometry data.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/hypergen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-  [HyperGen: Compact and Efficient Genome Sketching using Hyperdimensional Vectors](https://www.biorxiv.org/content/10.1101/2024.03.05.583605v1) \
-  <ins>**Weihong Xu**</ins>, Po-kai Hsu, Niema Moshiri, Shimeng Yu, and Tajana Rosing \
-  *Under revision of Bioinformatics, 2024* \
+  [HyperGen: Compact and Efficient Genome Sketching using Hyperdimensional Vectors](https://www.biorxiv.org/content/10.1101/2024.03.05.583605v1) \\
+  <ins>**Weihong Xu**</ins>, Po-kai Hsu, Niema Moshiri, Shimeng Yu, and Tajana Rosing \\
+  *Under revision of Bioinformatics, 2024* 
   [![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/wh-xu/Hyper-Gen)
 
-  - FastSpeech is the first fully parallel end-to-end speech synthesis model.
+  - HyperGen is a memory-efficient tool for genomic sketching.
 </div>
 </div>
 

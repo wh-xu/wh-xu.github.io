@@ -1,18 +1,19 @@
 # 📝 Full Publication List
 ## Under Review
 
-- **[Under Review]** [HyperGen: Compact and Efficient Genome Sketching using Hyperdimensional Vectors](https://www.biorxiv.org/content/10.1101/2024.03.05.583605v1) \
-  <ins>**Weihong Xu**</ins>, Po-kai Hsu, Niema Moshiri, Shimeng Yu, and Tajana Rosing \
-  *Under revision of Bioinformatics, 2024* \
-  [![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/wh-xu/Hyper-Gen)
 - **[Under Review]** [Proxima: Near-storage Acceleration for Graph-based Approximate Nearest Neighbor Search in 3D NAND](https://arxiv.org/abs/2312.04257) \
   <ins>**Weihong Xu**</ins>, Junwei Chen, Po-Kai Hsu, Jaeyoung Kang, Minxuan Zhou, Sumukh Pinge, Shimeng Yu, and Tajana Rosing \
   *Under review of IEEE Transactions on Computers, 2024* 
-- **[Under Review]** [Tri-HD: Train, Re-train, and Infer with Hyperdimensional Computing in Memory]() \
-  <ins>**Weihong Xu**</ins>, Saransh Gupta, Justin Morris, Xincheng Shen, Mohsen Imani, Baris Aksanli, and Tajana Rosing \
-  *Under revision of IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024*
 
 ## Published Journals
+
+- **[TCAD 2024]** [Tri-HD: Train, Re-train, and Infer with Hyperdimensional Computing in Memory]() \
+  <ins>**Weihong Xu**</ins>, Saransh Gupta, Justin Morris, Xincheng Shen, Mohsen Imani, Baris Aksanli, and Tajana Rosing \
+  *Accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024*
+- **[Bioinformatics 2024]** [HyperGen: Compact and Efficient Genome Sketching using Hyperdimensional Vectors](https://www.biorxiv.org/content/10.1101/2024.03.05.583605v1) \
+  <ins>**Weihong Xu**</ins>, Po-kai Hsu, Niema Moshiri, Shimeng Yu, and Tajana Rosing \
+  *Bioinformatics, 2024* \
+  [![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/wh-xu/Hyper-Gen)
 - **[TACO 2024]** [Abakus: Accelerating k-mer Counting With Storage Technology](https://dl.acm.org/doi/full/10.1145/3632952) \
   Lingxi Wu*, Minxuan Zhou*, <ins>**Weihong Xu**</ins>, Ashish Venkat, Tajana Rosing, and Kevin Skadron \
   *ACM Transactions on Architecture and Code Optimization (TACO), 2024*
@@ -30,7 +31,7 @@
   <ins>**Weihong Xu**</ins>, Xiaosi Tan, Yair Be'ery, Zaichen Zhang, Xiaohu You, and Chuan Zhang \
   *IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS), 2020*
 
-  
+
 ## Published Conferences
 
 - **[DATE 2024]** [AttBind: Memory-Efficient Acceleration for Long-Range Attention Using Vector-Derived Symbolic Binding](https://ieeexplore.ieee.org/document/10546602) \

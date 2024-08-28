@@ -37,7 +37,7 @@
 
 ## 📊 Hyperdimensional Computing
 
-- **[Under Review]** [Tri-HD: Train, Re-train, and Infer with Hyperdimensional Computing in Memory]() \
+- **[TCAD 2024]** [Tri-HD: Train, Re-train, and Infer with Hyperdimensional Computing in Memory]() \
   <ins>**Weihong Xu**</ins>, Saransh Gupta, Justin Morris, Xincheng Shen, Mohsen Imani, Baris Aksanli, and Tajana Rosing \
   *Accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024*
 - **[ESSERC 2024]** [FSL-HDnn: A 5.7 TOPS/W End-to-end Few-shot Learning Classifier Accelerator with Feature Extraction and Hyperdimensional Computing]() \

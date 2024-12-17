@@ -56,9 +56,12 @@
 
 ## 💫 In/Near-memory Acceleration
 
+- **[Under Review]** [SLIM: A Heterogeneous Accelerator for Edge Inference of Sparse Large Language Model via Adaptive Thresholding]() \
+  <ins>**Weihong Xu**</ins>, Haein Choi, Po-Kai Hsu, Shimeng Yu, and Tajana Rosing \
+  *Under review of ACM Transactions on Embedded Computing Systems, 2025*
 - **[Under Review]** [Proxima: Near-storage Acceleration for Graph-based Approximate Nearest Neighbor Search in 3D NAND](https://arxiv.org/abs/2312.04257) \
   <ins>**Weihong Xu**</ins>, Junwei Chen, Po-Kai Hsu, Jaeyoung Kang, Minxuan Zhou, Sumukh Pinge, Shimeng Yu, and Tajana Rosing \
-  *Under review of IEEE Transactions on Computers, 2024* 
+  *Under review of IEEE Transactions on Computers, 2024*
 - **[HPCA 2022]** [TransPIM: A Memory-based Acceleration via Software-Hardware Co-Design for Transformers](https://ieeexplore.ieee.org/document/9773212) \
   Minxuan Zhou∗, <ins>**Weihong Xu**</ins>∗, Jaeyoung Kang, and Tajana Rosing \
   *IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2022* * Equal contribution

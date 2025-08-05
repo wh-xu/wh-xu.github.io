@@ -18,6 +18,9 @@
 - **[TCAD 2024]** [DRAM-based acceleration of open modification search in hyperdimensional space](https://ieeexplore.ieee.org/abstract/document/10484999/) \
   Jaeyoung Kang, <ins>**Weihong Xu**</ins>, Wout Bittremieux, Niema Moshiri, and Tajana Rosing \
   *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024*
+- **[TACO 2024]** [Abakus: Accelerating k-mer Counting With Storage Technology](https://dl.acm.org/doi/full/10.1145/3632952) \
+  Lingxi Wu*, Minxuan Zhou*, <ins>**Weihong Xu**</ins>, Ashish Venkat, Tajana Rosing, and Kevin Skadron \
+  *ACM Transactions on Architecture and Code Optimization (TACO), 2024*
 - **[TCAD 2023]** [RAPIDx: High-performance ReRAM Processing in-Memory Accelerator for DNA Alignment](https://ieeexplore.ieee.org/document/10025378) \
   <ins>**Weihong Xu**</ins>, Saransh Gupta, Niema Moshiri, and Tajana Rosing \
   *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023*
@@ -35,7 +38,7 @@
 
 ## 🤖 Edge AI Chips
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLSI 2025</div><img src='images/clohdnn.png' alt="sym" width="150"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLSI 2025</div><img src='images/clohdnn.png' alt="sym" width="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
   [Clo-HDnn: A 4.66 TLOPS/W and 3.78 TOPS/W Continual On-Device Learning Accelerator with Energy-Efficient Hyperdimensional Computing via Progressive Search](https://ieeexplore.ieee.org/abstract/document/11074827) \\
@@ -45,7 +48,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSERC 2024</div><img src='images/fslhdnn.png' alt="sym" width="150"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSERC 2024</div><img src='images/fslhdnn.png' alt="sym" width="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
   [FSL-HDnn: A 5.7 TOPS/W End-to-end Few-shot Learning Classifier Accelerator with Feature Extraction and Hyperdimensional Computing](https://ieeexplore.ieee.org/abstract/document/10719453) \\
@@ -104,6 +107,3 @@
 </div>
 </div>
 
-- **[TACO 2024]** [Abakus: Accelerating k-mer Counting With Storage Technology](https://dl.acm.org/doi/full/10.1145/3632952) \
-  Lingxi Wu*, Minxuan Zhou*, <ins>**Weihong Xu**</ins>, Ashish Venkat, Tajana Rosing, and Kevin Skadron \
-  *ACM Transactions on Architecture and Code Optimization (TACO), 2024*

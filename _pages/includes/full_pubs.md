@@ -8,6 +8,9 @@
 - **[TCAD 2025]** [HyperMetric: Efficient Hyperdimensional Computing With Metric Learning for Robust Edge Intelligence](https://ieeexplore.ieee.org/abstract/document/11032149) \
   <ins>**Weihong Xu**</ins>, Sean Fuhrman, Keming Fan, Sumukh Pinge, Wei-Chen Chen, and Tajana Rosing \
   *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024*
+- **[TETC 2025]** [Fhemem: A processing in-memory accelerator for fully homomorphic encryption](https://ieeexplore.ieee.org/abstract/document/10845064) \
+  Minxuan Zhou, Yujin Nam, Pranav Gangwar, <ins>**Weihong Xu**</ins>, Arpan Dutta, Chris Wilkerson, Rosario Cammarota, Saransh Gupta, and Tajana Rosing
+  *IEEE Transactions on Emerging Topics in Computing (TETC), 2025*
 - **[TCAD 2024]** [Tri-HD: Train, Re-train, and Infer with Hyperdimensional Computing in Memory](https://ieeexplore.ieee.org/document/10614328/) \
   <ins>**Weihong Xu**</ins>, Saransh Gupta, Justin Morris, Xincheng Shen, Mohsen Imani, Baris Aksanli, and Tajana Rosing \
   *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024*

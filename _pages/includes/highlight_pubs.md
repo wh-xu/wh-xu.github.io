@@ -2,17 +2,17 @@
 
 ## 🤖 AI Chips
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLSI 2025</div><img src='images/clohdnn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLSI 2025</div><img src='images/clohdnn.png' alt="sym" width="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
   [Clo-HDnn: A 4.66 TLOPS/W and 3.78 TOPS/W Continual On-Device Learning Accelerator with Energy-Efficient Hyperdimensional Computing via Progressive Search](https://ieeexplore.ieee.org/abstract/document/11074827) \\
-  Chang Eun Song*, <ins>**Weihong Xu**</ins>*, Keming Fan, Soumil Jain, Gopabandhu Hota, Haichao Yang, Leo Liu, Kerem Akarvardar, Meng-Fan Chang, Carlos H. Diaz, Gert Cauwenberghs, Tajana Rosing, and Mingu Kang \\
+  Chang Eun Song∗, <ins>**Weihong Xu**</ins>∗, Keming Fan, Soumil Jain, Gopabandhu Hota, Haichao Yang, Leo Liu, Kerem Akarvardar, Meng-Fan Chang, Carlos H. Diaz, Gert Cauwenberghs, Tajana Rosing, and Mingu Kang \\
   *Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits), 2025* * Equal contribution
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSERC 2024</div><img src='images/fslhdnn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSERC 2024</div><img src='images/fslhdnn.png' alt="sym" width="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
   [FSL-HDnn: A 5.7 TOPS/W End-to-end Few-shot Learning Classifier Accelerator with Feature Extraction and Hyperdimensional Computing](https://ieeexplore.ieee.org/abstract/document/10719453) \\
@@ -23,15 +23,13 @@
 </div>
 
 
-
-
 ## 💫 Near-memory Acceleration for Emerging Workloads
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TECS 2025</div><img src='images/slim.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-  [SLIM: A Heterogeneous Accelerator for Edge Inference of Sparse Large Language Model via Adaptive Thresholding](https://dl.acm.org/doi/abs/10.1145/3750727) \
-  <ins>**Weihong Xu**</ins>, Haein Choi, Po-Kai Hsu, Shimeng Yu, and Tajana Rosing \
+  [SLIM: A Heterogeneous Accelerator for Edge Inference of Sparse Large Language Model via Adaptive Thresholding](https://dl.acm.org/doi/abs/10.1145/3750727) \\
+  <ins>**Weihong Xu**</ins>, Haein Choi, Po-Kai Hsu, Shimeng Yu, and Tajana Rosing \\
   *ACM Transactions on Embedded Computing Systems (TECS), 2025*
 
 </div>

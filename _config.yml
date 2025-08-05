@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Weihong Xu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Postdoc @ EPFL\n PhD @ UCSD"
+  bio              : "Postdoc @ EPFL\\ PhD @ UCSD"
   location         : "Lausanne, Switzerland"
   employer         : 
   pubmed           : 

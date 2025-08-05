@@ -1,28 +1,5 @@
 # Highlighted Projects
 
-## 🤖 AI Chips
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLSI 2025</div><img src='images/clohdnn.png' alt="sym" width="300"></div></div>
-<div class='paper-box-text' markdown="1">
-
-  [Clo-HDnn: A 4.66 TLOPS/W and 3.78 TOPS/W Continual On-Device Learning Accelerator with Energy-Efficient Hyperdimensional Computing via Progressive Search](https://ieeexplore.ieee.org/abstract/document/11074827) \\
-  Chang Eun Song∗, <ins>**Weihong Xu**</ins>∗, Keming Fan, Soumil Jain, Gopabandhu Hota, Haichao Yang, Leo Liu, Kerem Akarvardar, Meng-Fan Chang, Carlos H. Diaz, Gert Cauwenberghs, Tajana Rosing, and Mingu Kang \\
-  *Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits), 2025* * Equal contribution
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSERC 2024</div><img src='images/fslhdnn.png' alt="sym" width="300"></div></div>
-<div class='paper-box-text' markdown="1">
-
-  [FSL-HDnn: A 5.7 TOPS/W End-to-end Few-shot Learning Classifier Accelerator with Feature Extraction and Hyperdimensional Computing](https://ieeexplore.ieee.org/abstract/document/10719453) \\
-  Haichao Yang, Chang Eun Song, <ins>**Weihong Xu**</ins>, Behnam Khaleghi, Uday Mallappa, Monil Shah, Keming Fan, Mingu Kang, and Tajana Rosing \\
-  *European Solid-State Electronics Research Conference (ESSERC), 2024*
-
-</div>
-</div>
-
-
 ## 💫 Near-memory Acceleration for Emerging Workloads
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TECS 2025</div><img src='images/slim.png' alt="sym" width="100%"></div></div>
@@ -54,6 +31,29 @@
 - **[Under Review]** [Proxima: Near-storage Acceleration for Graph-based Approximate Nearest Neighbor Search in 3D NAND](https://arxiv.org/abs/2312.04257) \
   <ins>**Weihong Xu**</ins>, Junwei Chen, Po-Kai Hsu, Jaeyoung Kang, Minxuan Zhou, Sumukh Pinge, Shimeng Yu, and Tajana Rosing \
   *Under review of IEEE Transactions on Computers, 2024*
+
+
+## 🤖 Edge AI Chips
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLSI 2025</div><img src='images/clohdnn.png' alt="sym" width="150"></div></div>
+<div class='paper-box-text' markdown="1">
+
+  [Clo-HDnn: A 4.66 TLOPS/W and 3.78 TOPS/W Continual On-Device Learning Accelerator with Energy-Efficient Hyperdimensional Computing via Progressive Search](https://ieeexplore.ieee.org/abstract/document/11074827) \\
+  Chang Eun Song∗, <ins>**Weihong Xu**</ins>∗, Keming Fan, Soumil Jain, Gopabandhu Hota, Haichao Yang, Leo Liu, Kerem Akarvardar, Meng-Fan Chang, Carlos H. Diaz, Gert Cauwenberghs, Tajana Rosing, and Mingu Kang \\
+  *Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits), 2025* * Equal contribution
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSERC 2024</div><img src='images/fslhdnn.png' alt="sym" width="150"></div></div>
+<div class='paper-box-text' markdown="1">
+
+  [FSL-HDnn: A 5.7 TOPS/W End-to-end Few-shot Learning Classifier Accelerator with Feature Extraction and Hyperdimensional Computing](https://ieeexplore.ieee.org/abstract/document/10719453) \\
+  Haichao Yang, Chang Eun Song, <ins>**Weihong Xu**</ins>, Behnam Khaleghi, Uday Mallappa, Monil Shah, Keming Fan, Mingu Kang, and Tajana Rosing \\
+  *European Solid-State Electronics Research Conference (ESSERC), 2024*
+
+</div>
+</div>
 
 
 ## 📊 Hyperdimensional Computing

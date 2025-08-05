@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Weihong Xu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "CSE PhD, UCSD"
-  location         : "La Jolla, California, USA"
+  bio              : "Postdoc @ EPFL\n PhD @ UCSD"
+  location         : "Lausanne, Switzerland"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=iKoPPOYAAAAJ"
-  email            : "wexu@ucsd.edu"
+  email            : "weihong.xu@epfl.ch"
   researchgate     : Weihong-Xu # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

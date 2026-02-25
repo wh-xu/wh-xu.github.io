@@ -1,5 +1,6 @@
 # 🔥 News
 
+- *2026.01*: &nbsp;🎉 I have joint Zhejiang University as an assistant professor!
 - *2025.07*: &nbsp;🎉 [SLIM](https://dl.acm.org/doi/abs/10.1145/3750727) was accepted by TECS.
 - *2025.06*: &nbsp;🎉 [HyperMetric](https://ieeexplore.ieee.org/abstract/document/11032149) was accepted by TCAD.
 - *2025.06*: &nbsp;🎉 [Chip Clo-HDnn](https://ieeexplore.ieee.org/abstract/document/11074827) was accepted by VLSI Symposium.

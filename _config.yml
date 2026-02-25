@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Weihong Xu"
+title                    : "Weihong Xu | 徐炜鸿"
 description              : "In search of more efficient computing algorithm, hardware, and paradigm."
 repository               : 
 google_scholar_stats_use_cdn : true
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Weihong Xu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Postdoc @ EPFL\\ PhD @ UCSD"
-  location         : "Lausanne, Switzerland"
+  bio              : "AP @ ZJU, Postdoc @ EPFL, PhD @ UCSD"
+  location         : "Hangzhou, Zhejiang, China"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=iKoPPOYAAAAJ"
-  email            : "weihong.xu@epfl.ch"
+  email            : "wh.xu@zju.edu.cn"
   researchgate     : Weihong-Xu # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -2,6 +2,9 @@
 
 ## Published Journals
   
+- **[TC 2026]** [Proxima: Near-storage Acceleration for Graph-based Approximate Nearest Neighbor Search in 3D NAND](https://ieeexplore.ieee.org/abstract/document/11433588) \
+  <ins>**Weihong Xu**</ins>, Junwei Chen, Po-Kai Hsu, Jaeyoung Kang, Minxuan Zhou, Sumukh Pinge, Shimeng Yu, and Tajana Rosing \
+  *IEEE Transactions on Computers (TC), 2026* 
 - **[TECS 2025]** [SLIM: A Heterogeneous Accelerator for Edge Inference of Sparse Large Language Model via Adaptive Thresholding](https://dl.acm.org/doi/abs/10.1145/3750727) \
   <ins>**Weihong Xu**</ins>, Haein Choi, Po-Kai Hsu, Shimeng Yu, and Tajana Rosing \
   *ACM Transactions on Embedded Computing Systems (TECS), 2025*
@@ -72,7 +75,3 @@
 
 
 ## Under Review
-
-- **[Under Review]** [Proxima: Near-storage Acceleration for Graph-based Approximate Nearest Neighbor Search in 3D NAND](https://arxiv.org/abs/2312.04257) \
-  <ins>**Weihong Xu**</ins>, Junwei Chen, Po-Kai Hsu, Jaeyoung Kang, Minxuan Zhou, Sumukh Pinge, Shimeng Yu, and Tajana Rosing \
-  *Under review of IEEE Transactions on Computers, 2024* 

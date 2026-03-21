@@ -12,6 +12,16 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TECS 2025</div><img src='images/proxima.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+  [Proxima: Near-storage Acceleration for Graph-based Approximate Nearest Neighbor Search in 3D NAND](https://ieeexplore.ieee.org/abstract/document/11433588) \\
+  <ins>**Weihong Xu**</ins>, Junwei Chen, Po-Kai Hsu, Jaeyoung Kang, Minxuan Zhou, Sumukh Pinge, Shimeng Yu, and Tajana Rosing \\
+  *IEEE Transactions on Computers (TC), 2026* 
+
+</div>
+</div>
+
 - **[TC 2026]** [Proxima: Near-storage Acceleration for Graph-based Approximate Nearest Neighbor Search in 3D NAND](https://ieeexplore.ieee.org/abstract/document/11433588) \
   <ins>**Weihong Xu**</ins>, Junwei Chen, Po-Kai Hsu, Jaeyoung Kang, Minxuan Zhou, Sumukh Pinge, Shimeng Yu, and Tajana Rosing \
   *IEEE Transactions on Computers (TC), 2026* 

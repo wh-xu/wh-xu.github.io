@@ -14,12 +14,6 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSSC 2026</div><img src='images/fslhdnn.png' alt="sym" width="200"></div></div>
-<div class='paper-box-text' markdown="1">
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLSI 2025</div><img src='images/clohdnn.png' alt="sym" width="200"></div></div>
 <div class='paper-box-text' markdown="1">
 

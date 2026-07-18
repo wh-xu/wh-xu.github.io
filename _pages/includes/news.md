@@ -1,5 +1,6 @@
 # 🔥 News
 
+- *2026.07*: &nbsp;🎉 [FSL-HDnn AI Chip](https://ieeexplore.ieee.org/document/11610865/) was accepted by JSSC!
 - *2026.03*: &nbsp;🎉 [Proxima](https://ieeexplore.ieee.org/abstract/document/11433588) was accepted by TC after a long journey!
 - *2026.01*: &nbsp;🎉 I have joint Zhejiang University as an assistant professor!
 - *2025.07*: &nbsp;🎉 [SLIM](https://dl.acm.org/doi/abs/10.1145/3750727) was accepted by TECS.

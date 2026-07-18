@@ -1,7 +1,10 @@
 # 📝 Full Publication List
 
 ## Published Journals
-  
+
+- **[JSSC 2026]** [FSL-HDnn: A 40-nm Few-Shot On-Device Learning Accelerator With Integrated Feature Extraction and Hyperdimensional Computing](https://ieeexplore.ieee.org/document/11610865) \
+  <ins>**Weihong Xu**</ins>, Chang Eun Song, Haichao Yang, Leo Liu, Meng-Fan Chang, Carlos H. Diaz, Tajana Rosing, and Mingu Kang \
+  *IEEE Journal of Solid-State Circuits (JSSC), 2026* 
 - **[TC 2026]** [Proxima: Near-storage Acceleration for Graph-based Approximate Nearest Neighbor Search in 3D NAND](https://ieeexplore.ieee.org/abstract/document/11433588) \
   <ins>**Weihong Xu**</ins>, Junwei Chen, Po-Kai Hsu, Jaeyoung Kang, Minxuan Zhou, Sumukh Pinge, Shimeng Yu, and Tajana Rosing \
   *IEEE Transactions on Computers (TC), 2026* 
